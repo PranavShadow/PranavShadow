@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
-<h3 align="center">Web Developer | Programmer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/822828335083814942/1163875963264827402/daftpunktocat-thomas.gif?ex=65412af5&is=652eb5f5&hm=b98d37ae7dafbdee7a6706dea510e3caee7016808952469f67f14fcbdde33081&">
 
