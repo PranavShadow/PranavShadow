@@ -32,7 +32,7 @@
 <br>
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavShadow&show_icons=true&theme=dark&hide_title=true)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShadow&layout=compact&theme=dark&langs_count=8&bg_color=101010&hide_title=true)
 
 [![An image of @pranavshadow's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavshadow)](https://holopin.io/@pranavshadow)
