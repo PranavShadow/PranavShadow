@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/HGoPoI13QesAAAAd/rage-rage-bait.gif">
 
 - 👨‍🎓 Pre-Final Year Student
   
@@ -21,5 +21,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShadow&layout=compact&theme=dark&langs_count=8&bg_color=101010&hide_title=true)
-
-[![An image of @pranavshadow's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavshadow)](https://holopin.io/@pranavshadow)
