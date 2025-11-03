@@ -2,19 +2,10 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif">
 
-- 👨‍🎓 Student at **ABES Engineering College**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 View my Portfolio at [https://pranavshadow.github.io/My-Portfolio/](https://pranavshadow.github.io/My-Portfolio/)
-
-- 📝 Read my Blog on Darkness: [https://pranavgg7.wordpress.com/](https://pranavgg7.wordpress.com/)
-
+- 👨‍🎓 Pre-Final Year Student
+  
 - 📫 Reach me at **ompranav2003@gmail.com**
 
-- 📄 Vist my Linkedin for my Experiences [https://www.linkedin.com/in/pranavgg/](https://www.linkedin.com/in/pranavgg/)
-
-- ⚡ Fun fact **I do Philosophy when I eat Oranges 🍊🍊.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
