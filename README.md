@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/HGoPoI13QesAAAAd/rage-rage-bait.gif">
 
-- 👨‍🎓 Pre-Final Year Student
+- 👨‍🎓 Pre-Final Year Engineering Student
   
 - 📫 Reach me at **ompranav2003@gmail.com**
 
