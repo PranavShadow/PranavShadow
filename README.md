@@ -16,4 +16,4 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShadow&layout=compact&theme=dark&langs_count=8&bg_color=101010&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
