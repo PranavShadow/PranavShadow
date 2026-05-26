@@ -8,7 +8,7 @@
 
 - 🦦 Knows Java, Javascript and Python
 
-- 👾 Builded Full-Stack Web Application & 2D Games
+- 👾 Built Full-Stack Web Application & 2D Games
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
