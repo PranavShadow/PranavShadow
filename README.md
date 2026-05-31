@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi, i am Pranav </h1>
 </div>
-1
 
 <img align="right" alt="coding" width="380" src="https://media1.tenor.com/m/HGoPoI13QesAAAAd/rage-rage-bait.gif"/>
 
