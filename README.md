@@ -12,6 +12,8 @@
   
 - 👾 Built Full-Stack Web Apps & 2D Games
 
+- Learning App Development & figuring out contribution
+
 <br/>
 
 ### Connect with me:
