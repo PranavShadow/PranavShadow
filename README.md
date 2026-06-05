@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, i am Pranav </h1>
+  <h1>Hi, I am Pranav </h1>
 </div>
 
 <img align="right" alt="coding" width="380" src="https://media1.tenor.com/m/HGoPoI13QesAAAAd/rage-rage-bait.gif"/>
