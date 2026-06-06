@@ -10,7 +10,7 @@
   
 - 🦦 Knows Java, JavaScript & Python
   
-- 👾 Built Full-Stack Web Apps & 2D Games
+- 👾 Built Full-Stack Web Apps & 2D Games,
 
 
 <br/>
