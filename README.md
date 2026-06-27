@@ -17,53 +17,49 @@
 
 <img src="https://komarev.com/ghpvc/?username=PranavShadow&style=flat-square&color=blue" alt="Profile views"/>
 
----
 
-### Languages
+## Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<div>
+<!-- Languages -->
+<img alt="Java" src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
+<img alt="C" src="https://img.shields.io/badge/C-161B22?style=flat&logo=c&logoColor=00599C" />
 
+<!-- Frameworks, Libraries & Tools -->
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" />
+<img alt="React" src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-161B22?style=flat&logo=express&logoColor=FFFFFF" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-161B22?style=flat&logo=tailwindcss&logoColor=38B2AC" />
+<img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-161B22?style=flat&logo=shadcnui&logoColor=FFFFFF" />
+<img alt="Lucide" src="https://img.shields.io/badge/Lucide-161B22?style=flat&logo=lucide&logoColor=f67373" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=E34F26" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css3&logoColor=1572B6" />
+<img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-161B22?style=flat&logo=python&logoColor=FF6F00" />
+<img alt="Turtle" src="https://img.shields.io/badge/Turtle-161B22?style=flat&logo=python&logoColor=3776AB" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-161B22?style=flat&logo=figma&logoColor=F24E1E" />
+<img alt="Canva" src="https://img.shields.io/badge/Canva-161B22?style=flat&logo=canva&logoColor=00C4CC" />
+<img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-161B22?style=flat&logo=drizzle&logoColor=C5F74F" />
 
-### Frameworks, Libraries & Tools
+<!-- Databases -->
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=4ea94b" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-161B22?style=flat&logo=mysql&logoColor=4479A1" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" />
+<img alt="Neon" src="https://img.shields.io/badge/Neon-161B22?style=flat&logo=neon&logoColor=008080" />
 
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Lucide](https://img.shields.io/badge/lucide-%23f67373.svg?style=for-the-badge&logo=lucide&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tkinter](https://img.shields.io/badge/tkinter-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)
-![Turtle](https://img.shields.io/badge/turtle-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+<!-- DevOps & Deployment -->
+<img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05033" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-161B22?style=flat&logo=netlify&logoColor=00C7B7" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" />
+<img alt="Render" src="https://img.shields.io/badge/Render-161B22?style=flat&logo=render&logoColor=46E3B7" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" />
+</div>
 
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/neon-008080?style=for-the-badge&logo=neon&logoColor=white)
-
-
-### DevOps & Deployment
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
+## Github Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranavShadow&theme=tokyonight" height="180"/>
