@@ -24,8 +24,10 @@
 <!-- Languages -->
 <img alt="Java" src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
 <img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
 <img alt="C" src="https://img.shields.io/badge/C-161B22?style=flat&logo=c&logoColor=00599C" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-161B22?style=flat&logo=mysql&logoColor=4479A1" />
 
 <!-- Frameworks, Libraries & Tools -->
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" />
