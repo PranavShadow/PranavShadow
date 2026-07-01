@@ -61,8 +61,6 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" />
 </div>
 
-...
-
 ## Github Statistics
 
 <div align="center">
